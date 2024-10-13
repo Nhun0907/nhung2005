@@ -12,14 +12,14 @@
     {
       "email": "admin10@gmail.com",
       "password": "$2a$10$S480mjgeA2Zwwy6r9e41e.IKN9sFRMyf80BJOTEgum4zvm3n0rN5e",
-      "name": "Ngọc Bảo Anh Nguyễn",
+      "name": "Ngọc",
       "role": "user",
       "id": 7
     },
     {
       "email": "admin8@gmail.com",
       "password": "$2a$10$6nfC1HJhPMpI4BxOvs7b3.P0ev2KGXTWRJw4yFtN61uPv1TbmsNG6",
-      "name": "Ngọc Bảo Anh Nguyễn",
+      "name": "Ngọc Bảo",
       "role": "admin",
       "id": 8
     }
